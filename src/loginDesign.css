@@ -1,0 +1,30 @@
+.right-form {
+    -fx-background-image: url("MCDO.png");
+    -fx-background-repeat: no-repeat;
+    -fx-background-size: cover;
+    -fx-background-position: center;
+}
+
+.left-form {
+    -fx-background-color: #27251F;
+}
+
+.shadow {
+    -fx-effect: dropshadow(three-pass-box, rgba(0, 0, 0, 0.5), 8, 0, 0, 0);
+}
+
+.textfield {
+    -fx-background-color: black;
+    -fx-prompt-text-fill: white;
+    -fx-text-fill: white;
+
+}
+
+.btn {
+    -fx-background-color: #DA291C;
+    -fx-prompt-text-fill: white;
+}
+
+.btn:hover {
+    -fx-background-color: #e14939;
+}

@@ -1,0 +1,240 @@
+.nav1 {
+    -fx-background-color: #da291c;
+    -fx-background-radius: 5px;
+}
+
+.nav2 {
+    -fx-background-color: #fff;
+    -fx-background-radius: 5px;
+}
+
+.shadow {
+    -fx-effect: dropshadow(three-pass-box, rgba(0, 0, 0, 0.5), 8, 0, 0, 0);
+}
+
+.nav-btn {
+    -fx-background-color: transparent;
+    -fx-font-size: 15px;
+
+    -fx-cursor: hand;
+    -fx-text-fill: #27251F;
+    -fx-border-color: #FFC72C;
+    -fx-border-width: 1px;
+}
+
+.nav-btn:pressed {
+    -fx-background-color: #FFC72C;
+    -fx-text-fill: #fff;
+}
+
+.nav-btn:hover {
+    -fx-background-color: #FFC72C;
+    -fx-text-fill: #fff;
+    -fx-border-width: 0px;
+}
+
+.signout {
+    -fx-background-color: #DA291C;
+
+    -fx-cursor: hand;
+}
+
+.signout:hover {
+    -fx-background-color: #e14939;
+}
+
+.white-bg {
+    -fx-background-color: #fff;
+    -fx-background-radius: 6px;
+}
+
+.card {
+    -fx-background-color: #27251F;
+    -fx-background-radius: 15px;
+
+}
+
+.card-1 {
+    -fx-background-image: url("card-1.png");
+    -fx-background-repeat: no-repeat;
+    -fx-background-size: cover;
+}
+
+.logo {
+    -fx-background-image: url("logo.png");
+    -fx-background-repeat: no-repeat;
+    -fx-background-size: cover;
+}
+
+.card-2 {
+    -fx-background-image: url("card-2.png");
+    -fx-background-repeat: no-repeat;
+    -fx-background-size: cover;
+}
+
+.card-3 {
+    -fx-background-image: url("card-3.png");
+    -fx-background-repeat: no-repeat;
+    -fx-background-size: cover;
+}
+
+.textfield {
+    -fx-background-color: #eee;
+    -fx-border-color: #FFC72C;
+    -fx-border-width: .5px;
+}
+
+.textfield:focused {
+    -fx-border-width: 1.5px;
+    -fx-background-color: #f5f5f5;
+}
+
+.combo-box {
+    -fx-background-color: #eee;
+    -fx-border-color: #FFC72C;
+    -fx-border-width: .5px;
+}
+
+.combo-box:focused {
+    -fx-border-width: 1.5px;
+    -fx-background-color: #f5f5f5;
+}
+
+.add-btn {
+    -fx-background-color: #FFC72C;
+
+    -fx-cursor: hand;
+    -fx-font-size: 14px;
+    -fx-text-fill: #fff;
+}
+
+.add-btn:hover {
+    -fx-background-color: #ffcd50;
+}
+
+.new-order-btn {
+    -fx-background-color: #27251F;
+    -fx-cursor: hand;
+    -fx-font-size: 14px;
+    -fx-text-fill: #fff;
+}
+
+.new-order-btn:hover {
+    -fx-background-color: #393732;
+}
+
+
+
+.update-btn {
+    -fx-background-color: #264F36;
+    -fx-background-radius: 4px;
+    -fx-cursor: hand;
+    -fx-font-size: 14px;
+    -fx-text-fill: #fff;
+}
+
+.update-btn:hover {
+    -fx-background-color: #3b5f48;
+}
+
+.clear-btn {
+    -fx-background-color: #27251F;
+    -fx-background-radius: 4px;
+    -fx-cursor: hand;
+    -fx-font-size: 14px;
+    -fx-text-fill: #fff;
+}
+
+.clear-btn:hover {
+    -fx-background-color: #393732;
+}
+
+.delete-btn {
+    -fx-background-color: #DA291C;
+
+    -fx-cursor: hand;
+    -fx-font-size: 14px;
+    -fx-text-fill: #fff;
+}
+
+.delete-btn:hover {
+    -fx-background-color: #e14939;
+}
+
+.search {
+    -fx-background-color: #f5f5f5;
+    -fx-border-width: 1.2px;
+
+    -fx-border-color: #FFC72C;
+    -fx-font-size: 13px;
+    -fx-padding: 0px 0px 0px 30px;
+}
+
+.search:focused {
+    -fx-background-color: #fff;
+}
+
+.table-view {
+    -fx-background-color: transparent;
+    -fx-border-color: #da291c;
+
+    -fx-border-width: 2px;
+    -fx-padding: 0px;
+}
+
+.table-view .table-column {
+    -fx-alignment: CENTER;
+}
+
+.table-view .column-header-background {
+    -fx-background-color: #da291c;
+
+}
+
+.table-view .column-header {
+    -fx-background-color: transparent;
+    -fx-size: 40px;
+}
+
+.table-view .column-header .label {
+    -fx-text-fill: #fff;
+}
+
+.default-color0.chart-bar {
+    -fx-bar-fill: #DA291C;
+}
+
+.default-color1.chart-bar {
+    -fx-bar-fill: #DA291C;
+}
+
+.chart-area-symbol {
+
+    -fx-background-insets: 0, 1;
+
+    -fx-padding: 3px;
+}
+
+.default-color0.chart-area-symbol {
+    -fx-background-color: #FFC72C, white;
+}
+
+
+.chart-series-area-line {
+    -fx-stroke: #FFC72C;
+    -fx-stroke-width: 1px;
+}
+
+.default-color0.chart-series-area-line {
+    -fx-stroke: #FFC72C;
+}
+
+.chart-series-area-fill {
+    -fx-stroke: null;
+    -fx-fill: rgba(255, 199, 44, 0.2);
+}
+
+.default-color0.chart-series-area-fill {
+    -fx-fill: rgba(255, 199, 44, 0.2);
+    ;
+}

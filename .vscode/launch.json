@@ -1,0 +1,140 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "SpaceInvadersGame",
+            "request": "launch",
+            "mainClass": "SpaceInvadersGame",
+            "projectName": "JavaFX_5de47cf9"
+        },
+        {
+            "type": "java",
+            "name": "DiceProbabilityCalculator",
+            "request": "launch",
+            "mainClass": "DiceProbabilityCalculator",
+            "projectName": "JavaFX_5de47cf9"
+        },
+        {
+            "type": "java",
+            "name": "RestaurantManagementSys",
+            "request": "launch",
+            "mainClass": "RestaurantManagementSys",
+            "projectName": "JavaFX_5de47cf9",
+            "vmArgs": "--module-path \"C:/Users/Gericho Miles/Downloads/openjfx-20.0.1_windows-x64_bin-sdk/javafx-sdk-20.0.1/lib\" --add-modules javafx.controls,javafx.fxml"
+        },
+        {
+            "type": "java",
+            "name": "Restaurant",
+            "request": "launch",
+            "mainClass": "Restaurant",
+            "projectName": "JavaFX_5de47cf9",
+            "vmArgs": "--module-path \"C:/Users/Gericho Miles/Downloads/openjfx-20.0.1_windows-x64_bin-sdk/javafx-sdk-20.0.1/lib\" --add-modules javafx.controls,javafx.fxml"
+        },
+        {
+            "type": "java",
+            "name": "RestaurantManagementSystem",
+            "request": "launch",
+            "mainClass": "RestaurantManagementSystem",
+            "projectName": "JavaFX_5de47cf9",
+            "vmArgs": "--module-path \"C:/Users/Gericho Miles/Downloads/openjfx-20.0.1_windows-x64_bin-sdk/javafx-sdk-20.0.1/lib\" --add-modules javafx.controls,javafx.fxml"
+        },
+        {
+            "type": "java",
+            "name": "POSApp",
+            "request": "launch",
+            "mainClass": "POSApp",
+            "projectName": "JavaFX_5de47cf9",
+            "vmArgs": "--module-path \"C:/Users/Gericho Miles/Downloads/openjfx-20.0.1_windows-x64_bin-sdk/javafx-sdk-20.0.1/lib\" --add-modules javafx.controls,javafx.fxml"
+        },
+        {
+            "type": "java",
+            "name": "OnlineExamSystem",
+            "request": "launch",
+            "mainClass": "OnlineExamSystem",
+            "projectName": "JavaFX_5de47cf9",
+            "vmArgs": "--module-path \"C:/Users/Gericho Miles/Downloads/openjfx-20.0.1_windows-x64_bin-sdk/javafx-sdk-20.0.1/lib\" --add-modules javafx.controls,javafx.fxml"
+        },
+        {
+            "type": "java",
+            "name": "EducationAppointmentFormApp",
+            "request": "launch",
+            "mainClass": "EducationAppointmentFormApp",
+            "projectName": "JavaFX_5de47cf9",
+            "vmArgs": "--module-path \"C:/Users/Gericho Miles/Downloads/openjfx-20.0.1_windows-x64_bin-sdk/javafx-sdk-20.0.1/lib\" --add-modules javafx.controls,javafx.fxml"
+        },
+        {
+            "type": "java",
+            "name": "Try",
+            "request": "launch",
+            "mainClass": "Try",
+            "projectName": "JavaFX_5de47cf9",
+            "vmArgs": "--module-path \"C:/Users/Gericho Miles/Downloads/openjfx-20.0.1_windows-x64_bin-sdk/javafx-sdk-20.0.1/lib\" --add-modules javafx.controls,javafx.fxml"
+        },
+        {
+            "type": "java",
+            "name": "Theme",
+            "request": "launch",
+            "mainClass": "Theme",
+            "projectName": "JavaFX_5de47cf9",
+            "vmArgs": "--module-path \"C:/Users/Gericho Miles/Downloads/openjfx-20.0.1_windows-x64_bin-sdk/javafx-sdk-20.0.1/lib\" --add-modules javafx.controls,javafx.fxml"
+        },
+        {
+            "type": "java",
+            "name": "RegistrationFormApp",
+            "request": "launch",
+            "mainClass": "RegistrationFormApp",
+            "projectName": "JavaFX_5de47cf9",
+            "vmArgs": "--module-path \"C:/Users/Gericho Miles/Downloads/openjfx-20.0.1_windows-x64_bin-sdk/javafx-sdk-20.0.1/lib\" --add-modules javafx.controls,javafx.fxml"
+        },
+        {
+            "type": "java",
+            "name": "StudentEntryApp",
+            "request": "launch",
+            "mainClass": "StudentEntryApp",
+            "projectName": "JavaFX_5de47cf9",
+            "vmArgs": "--module-path \"C:/Users/Gericho Miles/Downloads/openjfx-20.0.1_windows-x64_bin-sdk/javafx-sdk-20.0.1/lib\" --add-modules javafx.controls,javafx.fxml"
+        },
+        {
+            "type": "java",
+            "name": "New",
+            "request": "launch",
+            "mainClass": "New",
+            "projectName": "JavaFX_5de47cf9",
+            "vmArgs": "--module-path \"C:/Users/Gericho Miles/Downloads/openjfx-20.0.1_windows-x64_bin-sdk/javafx-sdk-20.0.1/lib\" --add-modules javafx.controls,javafx.fxml"
+        },
+        {
+            "type": "java",
+            "name": "Calc",
+            "request": "launch",
+            "mainClass": "Calc",
+            "projectName": "JavaFX_5de47cf9",
+            "vmArgs": "--module-path \"C:/Users/Gericho Miles/Downloads/openjfx-20.0.1_windows-x64_bin-sdk/javafx-sdk-20.0.1/lib\" --add-modules javafx.controls,javafx.fxml"
+        },
+        {
+            "type": "java",
+            "name": "CalculatorApp",
+            "request": "launch",
+            "mainClass": "CalculatorApp",
+            "projectName": "JavaFX_5de47cf9",
+            "vmArgs": "--module-path \"C:/Users/Gericho Miles/Downloads/openjfx-20.0.1_windows-x64_bin-sdk/javafx-sdk-20.0.1/lib\" --add-modules javafx.controls,javafx.fxml"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "App",
+            "request": "launch",
+            "mainClass": "App",
+            "projectName": "JavaFX_5de47cf9",
+            "vmArgs": "--module-path \"C:/Users/Gericho Miles/Downloads/openjfx-20.0.1_windows-x64_bin-sdk/javafx-sdk-20.0.1/lib\" --add-modules javafx.controls,javafx.fxml"
+        }
+    ]
+}

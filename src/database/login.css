@@ -1,0 +1,79 @@
+@import url('https://fonts.googleapis.com/css2?family=Source+Serif+4&display=swap');
+
+#parent {
+    -fx-background-image: url("1234.png");
+    -fx-background-size: cover;
+    -fx-font-family: 'Source Serif 4', serif;
+}
+
+#child {
+    -fx-background-color: #fff;
+    -fx-background-radius: 10px;
+    -fx-border-radius: 10px;
+    -fx-border-color: #000;
+    -fx-padding: 30px;
+}
+
+#tableview {
+    -fx-background-color: #fff;
+}
+
+#title {
+    -fx-font-size: 20px;
+}
+
+#search-label {
+    
+    -fx-font-size: 20px;
+}
+
+
+#located {
+    -fx-font-size: 14px;
+}
+
+#tnc {
+    -fx-shape: "M 7 7 h 12 v 12 h -12 z";
+    -fx-background-radius: 50%;
+}
+
+.label {
+    -fx-font-weight: bold;
+}
+
+.text-field, .combo-box {
+    -fx-background-color: transparent;
+    -fx-background-radius: 0;
+    -fx-padding: 0;
+    -fx-border-style: hidden hidden solid hidden;
+    -fx-border-width: 0 0 1 0;
+    -fx-border-color: transparent transparent black transparent;
+    -fx-text-fill: #000;
+    -fx-prompt-text-fill: gray;
+    -fx-fill: rgb(130.0, 130.0, 130.0);
+}
+
+.text-field {
+    -fx-background-insets: 0 0 2px 5px; /* Adjust the values to your preference */
+    -fx-padding: 5px; /* Adjust the values to your preference */
+}
+
+.combo-box .list-cell {
+    -fx-text-fill: gray;
+}
+
+.text-field .prompt-text {
+    -fx-padding: 0 0 2px 5px;
+}
+
+.button {
+    -fx-background-color: #4a68b0;
+    -fx-text-fill: white;
+}
+
+.button:hover{
+    -fx-background-color: #1f47a5;
+}
+.button:pressed{
+    -fx-background-color: #002a8b;
+}

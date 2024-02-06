@@ -1,0 +1,56 @@
+
+@font-face {
+    font-family: 'SFProRegular';
+    src: url('src/FONTSFREE-NET-SF-UI-DISPLAY-REGULAR-1.ttf');
+}
+
+#parent {
+    -fx-background-image: url("1234.png");
+    -fx-background-size: cover;
+    -fx-font-family: 'SFProRegular', sans-serif;
+}
+
+#child {
+    -fx-background-color: white;
+    -fx-background-radius: 10px;
+    -fx-border-radius: 10px;
+    -fx-padding: 30px;
+}
+
+#title {
+    -fx-font-size: 20px;
+}
+
+#located {
+    -fx-font-size: 14px;
+}
+
+#tnc {
+    -fx-border-radius: 100px;
+}
+
+.label {
+    -fx-font-weight: bold;
+}
+
+
+.text-field, .combo-box {
+    -fx-border-color: transparent transparent black transparent;
+    -fx-text-fill: #000;
+    -fx-prompt-text-fill: gray;
+    -fx-fill: rgb(130.0, 130.0, 130.0);
+}
+
+
+.button {
+    -fx-background-color: #4a68b0;
+    -fx-text-fill: white;
+}
+
+.button:hover{
+    -fx-background-color: #1f47a5;
+}
+
+.button:pressed{
+    -fx-background-color: #002a8b;
+}
